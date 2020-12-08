@@ -1,4 +1,9 @@
 # Ontology Imports
+Author: [Alasdair Gray](http://orcid.org/0000-0002-5711-4872)
+
+License: [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+
+## Overview
 
 OWL has a mechanism for importing terms from an existing ontology. The general approach is to declare an `import` in the ontology. This will import the whole of the external ontology into your ontology. See [Importing Ontologies in Protege and OWL 2](https://protegewiki.stanford.edu/wiki/Importing_Ontologies_in_P41) for more details.
 
