@@ -5,7 +5,7 @@ License: [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 
 ## Overview
 
-OOPS (Ontology Pitfall Scanner) (Poveda-Villalón et al, 2014) is available as a plugin for Protégé. This tutorial will guide you through installing the plugin and then using it.
+OOPS (Ontology Pitfall Scanner) (Poveda-Villalón et al., 2014) is available as a plugin for Protégé. This tutorial will guide you through installing the plugin and then using it.
 
 ## Installation
 
@@ -39,4 +39,4 @@ You can view pitfalls for a specific entity by clicking on the entity. Alternati
 
 ## References
 
-Poveda-Villalón, María, Asunción Gómez-Pérez, and Mari Carmen Suárez-Figueroa. "OOPS!(Ontology Pitfall Scanner!): An on-line tool for ontology evaluation." International Journal on Semantic Web and Information Systems (IJSWIS) 10.2 (2014): 7-34.
+Poveda-Villalón, María, Asunción Gómez-Pérez, and Mari Carmen Suárez-Figueroa. "OOPS!(Ontology Pitfall Scanner!): An on-line tool for ontology evaluation." International Journal on Semantic Web and Information Systems (IJSWIS) 10.2 (2014): 7-34. doi: [10.4018/ijswis.2014040102](https://doi.org/10.4018/ijswis.2014040102)
