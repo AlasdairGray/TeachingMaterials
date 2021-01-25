@@ -1,5 +1,6 @@
 # OOPS Plugin Tutorial
 Author: [Alasdair Gray](http://orcid.org/0000-0002-5711-4872)
+Contributors: Vanesa Caballero Alonso, Seyed Amir Hosseini
 
 License: [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 
@@ -15,7 +16,7 @@ On Linux systems you should have a `.Protege` folder in your home directory if y
 
 On Mac, open up the Application folder and right click on Protégé. Click on 'Show Package Contents'. Navigate to 'Contents/Java/plugins' and place the jar there.
 
-*Please help complete this tutorial by supplying instructions for Windows.*
+On Windows 10, downloaded the jar file from the above link and put it into the plugins folder under Protege-5.5.0-win (the file for the installation of Protege). Then followe the steps in the tutorial. You can also check you have correctly installed the plugin when you open Protege: Go to File -> Preferences -> Plugin Tab, and explore the list of installed plugins. 
 
 Now when you open Protégé the OOPS plugin will be available.
 
