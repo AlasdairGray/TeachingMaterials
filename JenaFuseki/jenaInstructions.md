@@ -1,5 +1,11 @@
 # Working with Apache Jena Fuseki
 
+Author: [Alasdair Gray](http://orcid.org/0000-0002-5711-4872)
+
+License: [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+
+## Overview
+
 We will be using Jena in a standalone Fuseki2 deployment.
 
 ## Download Apache Jena Fuseki
